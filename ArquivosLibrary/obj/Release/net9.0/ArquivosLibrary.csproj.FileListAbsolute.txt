@@ -1,0 +1,12 @@
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Release\net9.0\ArquivosLibrary.deps.json
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Release\net9.0\ArquivosLibrary.dll
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Release\net9.0\ArquivosLibrary.pdb
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.AssemblyInfo.cs
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.dll
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\refint\ArquivosLibrary.dll
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ArquivosLibrary.pdb
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Release\net9.0\ref\ArquivosLibrary.dll

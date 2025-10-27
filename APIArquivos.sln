@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIArquivos", "APIArquivos\APIArquivos.csproj", "{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArquivosLibrary", "ArquivosLibrary\ArquivosLibrary.csproj", "{8C959684-3DDD-48A4-B0AE-D19CC9446025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C959684-3DDD-48A4-B0AE-D19CC9446025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C959684-3DDD-48A4-B0AE-D19CC9446025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C959684-3DDD-48A4-B0AE-D19CC9446025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C959684-3DDD-48A4-B0AE-D19CC9446025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E7F974-6B17-4CC5-A51B-288860F096D0}
+	EndGlobalSection
+EndGlobal

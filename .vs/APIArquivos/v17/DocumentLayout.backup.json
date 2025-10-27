@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lbigo\\Desktop\\FACULDADE\\TRABALHO API ATUALIZADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}|APIArquivos\\APIArquivos.csproj|c:\\users\\lbigo\\desktop\\faculdade\\trabalho api atualizado\\apiarquivos\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}|APIArquivos\\APIArquivos.csproj|solutionrelative:apiarquivos\\controllers\\cidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}|APIArquivos\\APIArquivos.csproj|c:\\users\\lbigo\\desktop\\faculdade\\trabalho api atualizado\\apiarquivos\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED0BC35-0439-4E7A-ADAA-D6412EE2179F}|APIArquivos\\APIArquivos.csproj|solutionrelative:apiarquivos\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\lbigo\\Desktop\\FACULDADE\\TRABALHO API ATUALIZADO\\APIArquivos\\Controllers\\CidadesController.cs",
+              "RelativeDocumentMoniker": "APIArquivos\\Controllers\\CidadesController.cs",
+              "ToolTip": "C:\\Users\\lbigo\\Desktop\\FACULDADE\\TRABALHO API ATUALIZADO\\APIArquivos\\Controllers\\CidadesController.cs",
+              "RelativeToolTip": "APIArquivos\\Controllers\\CidadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:27:11.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\lbigo\\Desktop\\FACULDADE\\TRABALHO API ATUALIZADO\\APIArquivos\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "APIArquivos\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\lbigo\\Desktop\\FACULDADE\\TRABALHO API ATUALIZADO\\APIArquivos\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "APIArquivos\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAgwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:10:38.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

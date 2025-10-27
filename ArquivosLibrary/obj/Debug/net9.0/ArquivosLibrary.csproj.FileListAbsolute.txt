@@ -1,0 +1,48 @@
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.deps.json
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.dll
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.pdb
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.AssemblyReference.cache
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfoInputs.cache
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfo.cs
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.dll
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\refint\ArquivosLibrary.dll
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.pdb
+C:\Users\Andre\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ref\ArquivosLibrary.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.deps.json
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.AssemblyReference.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfoInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfo.cs
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.CoreCompileInputs.cache
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\refint\ArquivosLibrary.dll
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.pdb
+D:\OneDrive\Unoeste\FIPP\P-I\2º Semestre 2025\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ref\ArquivosLibrary.dll
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.deps.json
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.dll
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.pdb
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.dll
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\refint\ArquivosLibrary.dll
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.pdb
+C:\Users\Aluno\Downloads\APIArquivos\APIArquivos\ArquivosLibrary\obj\Debug\net9.0\ref\ArquivosLibrary.dll
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.deps.json
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.dll
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\bin\Debug\net9.0\ArquivosLibrary.pdb
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.AssemblyReference.cache
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfoInputs.cache
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.AssemblyInfo.cs
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.dll
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\refint\ArquivosLibrary.dll
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ArquivosLibrary.pdb
+C:\Users\lbigo\Desktop\FACULDADE\TRABALHO API ATUALIZADO\ArquivosLibrary\obj\Debug\net9.0\ref\ArquivosLibrary.dll
